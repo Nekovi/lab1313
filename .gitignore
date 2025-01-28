@@ -1,0 +1,21 @@
+# Ignore Maven target directory
+/target/
+
+# Ignore environment-specific files
+.env
+.env.properties
+
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
